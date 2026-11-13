@@ -1,13 +1,7 @@
-# Vortexi Source Code
+# (was supposed to be zaplix) Source Code
 
-Please, I beg. Change the frontend code so you stand out. Thanks!
+Please dont use this and use the [real thing](https://github.com/kaitlynmiau/vortexi-src) by the owner because this was never modified and is just a fork with no changes
 
-This is the original Vortexi source code with much needed improvements.
+This was made with love by [the owner](https://kaitlyn.codes).
 
-This was made with love by [me](https://kaitlyn.codes).
-
-Get started here: [vortexiwebsite/README.md](vortexiwebsite/README.md)
-
-Any support, please [contact me](https://kaitlyn.codes) or [copyright.txt on Discord](https://discord.com/users/744379641707626556)!
-
-Good luck, feel free to rehost this!
+Get started here: [vortexiwebsite/README.md](https://github.com/kaitlynmiau/vortexi-src/blob/main/vortexiwebsite/README.md)
